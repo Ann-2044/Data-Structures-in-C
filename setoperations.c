@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 #define MAX_SIZE 25
 
 int superset[MAX_SIZE], supersetsize=0;
