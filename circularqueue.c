@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int *queue;
 int size;
 int front = -1, rear = -1;
